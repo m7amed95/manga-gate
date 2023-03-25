@@ -26,8 +26,7 @@ At Manga-Gate, we're more than just a digital manga platform. We're a community 
 
 https://manga-gate95.herokuapp.com/
 
-*
-https://manga-gate-api.herokuapp.com/
+
 
 
 # Next Steps
