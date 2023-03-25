@@ -19,7 +19,7 @@ At Manga-Gate, we're more than just a digital manga platform. We're a community 
 - HTML
 - CSS
 - Mongoose
-- Express.JS
+- Express
 - React
 
 # Getting Started
